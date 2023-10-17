@@ -1,0 +1,16 @@
+<!-- <navigation-bar title="点菜神器" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+<scroll-view class="scrollarea" scroll-y type="list">
+  <view class="container">
+    <button bindtap="generateRandomNumber">吃点什么呢？</button>
+    <div style="display: flex;justify-content: center;">
+      <p> 素菜： </p>
+      <input type="text" value="{{ vegetableDish }}" disabled />
+    </div>
+    <div style="display: flex;justify-content: center;">
+      <p> 荤菜：</p>
+      <input type="text" value="{{ meatDish }}" disabled />
+    </div>
+  </view>
+</scroll-view> -->
+
+
